@@ -1,0 +1,32 @@
+body{
+	background: url(https://images.unsplash.com/photo-1455145914126-c357157e2db0?auto=format&fit=crop&w=1350&q=80);
+	background-size: cover;
+	background-position: center;
+	font-family: Lato;
+	color: white;
+}
+
+html{
+	height: 100%;
+}
+
+#content{
+	text-align: center;
+	padding-top: 25%;
+}
+
+hr{
+	background-color: white;
+	width: 400px;
+
+}
+
+h1{
+	font-weight: 700;
+	font-size: 7em;
+	color: rgb(131,0,55);
+}
+
+h3{
+	color: black;
+}
